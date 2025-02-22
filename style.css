@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'OneRock';
+    src: url(fonts/Onerock.ttf);
+}
+
+@font-face {
+    font-family: 'NeoVibes';
+    src: url(fonts/NCLNeovibes-Demo.otf);
+}
+
+body {
+    height: 95vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: #0e1111;
+}
+
+.Title {
+    font-family: 'NeoVibes', sans-serif;
+    font-size: 35px;
+    color: #e2e2e2;
+    height: -50px;
+}
+
+.greetings {
+    font-family: 'NeoVibes', sans-serif;
+    color: #e2e2e2;
+}
+
+.thebio {
+    font-family: 'Neovibes', sans-serif;
+    color: #e2e2e2;
+    font-stretch: condensed;
+    font-size: larger;
+    padding-bottom: 40px;
+}
+
+.socialshit {
+    color: #e2e2e2;
+    font-family: 'NeoVibes', sans-serif;
+    font-stretch: narrower;
+    font-size: 25px;
+}
+
+.social {
+    font-family: 'Neovibes', sans-serif;
+    font-stretch: narrower;
+    font-size: 35px;
+}
+
+.ending {
+    font-family: 'NeoVibes', sans-serif;
+    color: #e2e2e2;
+    font-size: 20px;
+    text-align: center;
+}
