@@ -37,7 +37,7 @@ body {
     color: #e2e2e2;
     font-stretch: condensed;
     font-size: larger;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 
 .socialshit {
@@ -55,10 +55,20 @@ body {
     font-size: 35px;
 }
 
+.games {
+    text-shadow: 0 0 10px #e2e2e2;
+    font-family: 'NeoVibes', sans-serif;
+    color: #e2e2e2;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 50px;
+}
+
 .ending {
     text-shadow: 0 0 10px #e2e2e2;
     font-family: 'NeoVibes', sans-serif;
     color: #e2e2e2;
     font-size: 20px;
+    padding-top: 25px;
     text-align: center;
 }
